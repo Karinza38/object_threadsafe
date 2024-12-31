@@ -1,4 +1,4 @@
-This repository for examples of articles
+ This repository for examples of articles
 
 ## How to make any object thread-safe with the speed of lock-free algorithms
 
